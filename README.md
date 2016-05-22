@@ -3,7 +3,7 @@ angularjs-tech-talk
 
 Slides for the Tech Talk I gave on Angularjs.
 
-See the slides hosted (on OpenShift) here: http://angulartechtalk-jweaver.rhcloud.com/ (no guarantee on how long they'll be hosted!)
+See the slides hosted here: http://jweaver.github.io/angularjs-tech-talk/#/
 
 
 About
